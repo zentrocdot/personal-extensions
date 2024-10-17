@@ -8,6 +8,8 @@ After working with the web UI Easy Diffusion, I switched to the web UI AUTOMATIC
 
 * sd-webui-predefined_aspect_ratios
 
+  ** Dec 
+
 * sd-webui-aspect_ratios-dd
 
 * sd-webui-aspect_ratio2width_height
