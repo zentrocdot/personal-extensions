@@ -8,17 +8,27 @@ After working with the web UI Easy Diffusion, I switched to the web UI AUTOMATIC
 
 * sd-webui-predefined_aspect_ratios
 
-  ** Dec 
+  + Extensions which is adding predefined aspect ratio buttons to the web UI
 
 * sd-webui-aspect_ratios-dd
 
+  + Extensions which is adding predefined aspect ratio selectable via a dropdown menu to the web UI   
+
 * sd-webui-aspect_ratio2width_height
+
+  + Calculates Width and Hight to a given aspect ratio 
   
 * sd-webui-aspect_ratio_calc
 
+  + Calculates Width and Hight for a given aspect ratio 
+
 * sd-webui-calc_aspect_ratio
 
+  + Calculates the aspect ratio from Width and Hight of the web UI  
+
 * sd-webui-lora_metadata_viewer
+
+  + Adds a tab in which the LoRA metadata can be displayed.  
 
 ## Usage
 
