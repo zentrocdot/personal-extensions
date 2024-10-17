@@ -1,8 +1,10 @@
-# Home of my Personal AUTOMATIC1111 Extension
+# Personal AUTOMATIC1111 Extension
 
-# Preface
+## Preface
 
-# Extension I Wrote So Far
+After working with the web UI Easy Diffusion, I switched to the web UI AUTOMATIC1111. It remains to be seen whether I will remain loyal to it in the long term. Unfortunately, one have to assume that the days of AUTOMATIC1111 are numbered, as there is no adaptation to the current versions of Gradio, for example. Various Python modules are already in conflict with each other if you keep the systems in use up to date. More problematic are the bugs of the Gradio version, which is in use AUTOMATIC1111.These make programming the simplest extensions very laborious.
+
+## Extension I Wrote So Far
 
 * sd-webui-predefined_aspect_ratios
 
@@ -16,7 +18,7 @@
 
 * sd-webui-lora_metadata_viewer
 
-# Usage
+## Usage
 
 It is not desired and not allowed to add the extensions that I have painstakingly written to the AUTOMATIC1111 Extension Repository.
 
