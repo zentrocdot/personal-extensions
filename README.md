@@ -32,7 +32,7 @@ After working with the web UI Easy Diffusion, I switched to the web UI AUTOMATIC
 
 ## Usage
 
-It is not desired and not allowed to add the extensions that I have painstakingly written to the AUTOMATIC1111 Extension Repository.
+It is not desired and not allowed to add the extensions that I have painstakingly written the last week over to the AUTOMATIC1111 Extension Repository.
 
 # References
 
