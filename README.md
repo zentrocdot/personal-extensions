@@ -2,7 +2,9 @@
 
 ## Preface
 
-After working with the web UI Easy Diffusion, I switched to the web UI AUTOMATIC1111. It remains to be seen whether I will remain loyal to it in the long term. Unfortunately, one have to assume that the days of AUTOMATIC1111 are numbered, as there is no adaptation to the current versions of Gradio, for example. Various Python modules are already in conflict with each other if you keep the systems in use up to date. More problematic are the bugs of the Gradio version, which is in use AUTOMATIC1111.These make programming the simplest extensions very laborious.
+<p align="justify">After working with the web UI <i>Easy Diffusion</i>, I switched to the web UI <i>AUTOMATIC1111</i>. It remains to be seen whether I will remain loyal to it in the long term. Unfortunately, one have to assume that the days of <i>AUTOMATIC1111</i> are numbered, as there is no adaptation to the current versions of <i>Gradio</i>, for example. Various Python modules are already in conflict with each other if you keep the systems in use up to date. More problematic are the bugs of the <i>Gradio</i> version, which is in use <i>AUTOMATIC1111</i>.These make programming the simplest extensions very laborious.
+</p>
+
 
 ## Extension I Wrote So Far
 
