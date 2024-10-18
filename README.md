@@ -2,14 +2,14 @@
 
 ## Preface
 
-<p align="justify">After working with the web UI <i>Easy Diffusion</i>, I switched to the web UI <i>AUTOMATIC1111</i>. It remains to be seen whether I will remain loyal to it in the long term. Unfortunately, one have to assume that the days of <i>AUTOMATIC1111</i> are numbered, as there is no adaptation to the current versions of <i>Gradio</i>, for example. Various Python modules are already in conflict with each other if you keep the systems in use up to date. More problematic are the bugs of the <i>Gradio</i> version, which is in use <i>AUTOMATIC1111</i>.These make programming the simplest extensions very laborious.
+<p align="justify">After working with the web UI <i>Easy Diffusion</i>, I switched to the web UI <i>AUTOMATIC1111</i>. It remains to be seen whether I will remain loyal to it in the long term. Unfortunately, one have to assume that the days of <i>AUTOMATIC1111</i> are numbered, as there is no adaptation to the current versions of <i>Gradio</i>, for example. Various <i>Python</i> modules are already in conflict with each other if you keep the systems in use up to date. More problematic are the bugs of the <i>Gradio</i> version, which is in use by <i>AUTOMATIC1111</i>. These make programming the simplest <i>Extension</i> next to other reasons very laborious.
 </p>
-
 
 ## Extension I Wrote So Far
 
 ### Current Extensions
 
+The following list are the <i>Extensions</i>, which I am using in my daily work:
 
 * sd-webui-aspect_ratios-dd
 
@@ -17,19 +17,19 @@
 
 * sd-webui-aspect_ratio2width_height
 
-  + Calculates Width and Hight to a given aspect ratio 
+  + Calculates Width and Hight from a given aspect ratio and allows taking them over to the web UI
   
 * sd-webui-aspect_ratio_calc
 
-  + Calculates Width and Hight for a given aspect ratio 
+  + Calculates the aspect ratio from given Width and Hight or from the given values by the web UI
 
 * sd-webui-lora_metadata_viewer
 
-  + Adds a tab in which the LoRA metadata can be displayed.
+  + Adds a tab in which the LoRA metadata can be displayed, downloaded and copied.
  
 ### Deprecated Extensions
 
-I have learnt some basic things from the following outdated extensions. These experiences have been incorporated into the extensions mentioned above. The extensions are sexist and work. I will no longer maintain them.
+<p align="justify">I have learnt some basic things from the following outdated extensions. These experiences have been incorporated into the extensions mentioned above. The extensions are sexist and work. I will no longer maintain them.</p>
 
 * sd-webui-predefined_aspect_ratios
 
@@ -41,7 +41,7 @@ I have learnt some basic things from the following outdated extensions. These ex
 
 ## Usage
 
-It is not desired and not allowed to add the extensions that I have painstakingly written the last week over to the AUTOMATIC1111 Extension Repository.
+<p align="justify">It is not desired and not allowed to add the extensions that I have painstakingly written the last week over to the AUTOMATIC1111 Extension Repository.</p>
 
 # References
 
