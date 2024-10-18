@@ -6,9 +6,8 @@ After working with the web UI Easy Diffusion, I switched to the web UI AUTOMATIC
 
 ## Extension I Wrote So Far
 
-* sd-webui-predefined_aspect_ratios
+### Current Extensions
 
-  + Extensions which is adding predefined aspect ratio buttons to the web UI
 
 * sd-webui-aspect_ratios-dd
 
@@ -22,13 +21,19 @@ After working with the web UI Easy Diffusion, I switched to the web UI AUTOMATIC
 
   + Calculates Width and Hight for a given aspect ratio 
 
-* sd-webui-calc_aspect_ratio
-
-  + Calculates the aspect ratio from Width and Hight of the web UI  
-
 * sd-webui-lora_metadata_viewer
 
-  + Adds a tab in which the LoRA metadata can be displayed.  
+  + Adds a tab in which the LoRA metadata can be displayed.
+ 
+### Deprecated Extensions
+
+* sd-webui-predefined_aspect_ratios
+
+  + Extensions which is adding predefined aspect ratio buttons to the web UI
+
+* sd-webui-calc_aspect_ratio
+
+  + Calculates the aspect ratio from Width and Hight of the web UI 
 
 ## Usage
 
