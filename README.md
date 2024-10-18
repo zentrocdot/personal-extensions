@@ -2,8 +2,11 @@
 
 ## Preface
 
-<p align="justify">After working with the web UI <i>Easy Diffusion</i>, I switched to the web UI <i>AUTOMATIC1111</i>. It remains to be seen whether I will remain loyal to it in the long term. Unfortunately, one have to assume that the days of <i>AUTOMATIC1111</i> are numbered, as there is no adaptation to the current versions of <i>Gradio</i>, for example. Various <i>Python</i> modules are already in conflict with each other if you keep the systems in use up to date. More problematic are the bugs of the <i>Gradio</i> version, which is in use by <i>AUTOMATIC1111</i>. These make programming the simplest <i>Extension</i> next to other reasons very laborious.
-</p>
+<p align="justify">After working with the web UI <i>Easy Diffusion</i>, I switched to the web UI <i>AUTOMATIC1111</i>. It remains to be seen whether I will remain loyal to it in the long term. Unfortunately, one have to assume that the days of <i>AUTOMATIC1111</i> are numbered, as there is no adaptation to the current versions of <i>Gradio</i>, for example. Various <i>Python</i> modules are already in conflict with each other if you keep the systems in use up to date. More problematic are the bugs of the <i>Gradio</i> version, which is in use by <i>AUTOMATIC1111</i>. These make programming the simplest <i>Extension</i> next to other reasons very laborious.</p>
+
+<p align="justify">In the 10 days that I have been working on programming in AUTOMATIC1111, you can't expect miracles. The extensions got better with the learning effect I had. Since my extensions for the <i>AUTOMATIC1111</i> are not of high enough quality, to put it diplomatically, I will leave it at availability via this page. I leave it to the user to judge their usefulness.</p>
+
+<p align="justify">The extensions fulfil their purpose and do what they are supposed to and are a great help to me. </p>
 
 ## Extension I Wrote So Far
 
