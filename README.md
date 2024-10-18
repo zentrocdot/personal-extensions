@@ -37,7 +37,11 @@ The following list are the <i>Extensions</i>, which I am using in my daily work:
 
 * sd-webui-calc_aspect_ratio
 
-  + Calculates the aspect ratio from Width and Hight of the web UI 
+  + Calculates the aspect ratio from Width and Hight of the web UI
+ 
+## Installation
+
+The installation of each Extension is as easy as it is. Go to tab Extensions and go to tab Install from URL. Put in the link from the reference and your are done.
 
 ## Usage
 
