@@ -27,6 +27,8 @@ After working with the web UI Easy Diffusion, I switched to the web UI AUTOMATIC
  
 ### Deprecated Extensions
 
+I have learnt some basic things from the following outdated extensions. These experiences have been incorporated into the extensions mentioned above. The extensions are sexist and work. I will no longer maintain them.
+
 * sd-webui-predefined_aspect_ratios
 
   + Extensions which is adding predefined aspect ratio buttons to the web UI
