@@ -30,6 +30,10 @@ The following list are the <i>Extensions</i>, which I am using in my daily work:
 
   + Adds a tab in which the LoRA metadata can be displayed, downloaded and copied.
  
+* sd-webui-adjust_lora_filename
+
+  + Adds a tab in which the LoRA tag for the outputfile can be checked and updated 
+ 
 ### Deprecated Extensions
 
 <p align="justify">I have learnt some basic things from the following outdated extensions. These experiences have been incorporated into the extensions mentioned above. The extensions are sexist and work. I will no longer maintain them.</p>
@@ -63,3 +67,5 @@ https://github.com/zentrocdot/sd-webui-aspect_ratio_calc
 https://github.com/zentrocdot/sd-webui-calc_aspect_ratio
 
 https://github.com/zentrocdot/sd-webui-lora_metadata_viewer
+
+https://github.com/zentrocdot/sd-webui-adjust_lora_filename
